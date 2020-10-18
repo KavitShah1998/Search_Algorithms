@@ -5,80 +5,78 @@ Algorithms implemented: Breadth-First Search, Depth-First Search, Dijkstra, A*, 
 
 Breadth-First Search 
 
-<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_bfs(1).gif">
+<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_bfs(1).gif" />
 
 Depth-First Search 
 
-<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_dfs.gif">
+<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_dfs.gif" />
 
 Dijkstra's Algorithm 
 
-<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_dijkstra">
+<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_dijkstra" />
 
 A* 
 
-<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_a_star.gif">
+<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_a_star.gif" />
 
 Weighted-A*
 
-<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_wa_star.gif">
+<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_wa_star.gif" />
 
 
 ## Dependencies
 You will need OpenCV library for visualizing this project
 
-You can find the installing instruction for OpenCV4 on Ubuntu 18-04 [here](https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/)
+You can find the installing instruction for OpenCV4 on Ubuntu 18-04 [here](https://www.learnopencv.com/install-opencv-4-on-ubuntu-18.04/)
 
-Don't forget to configure the OpenCV_DIR in the CMakeLists.txt with <path-to-your-OpenCV library>
+Don't forget to configure the OpenCV_DIR in the CMakeLists.txt with {path-to-your-OpenCV-library}
 
 ## Installation 
 
 Create a build directory
-'''
-mkdir build
-'''
+
+        mkdir build
+
 Go into the build directory
-'''
-cd build
-'''
+
+        cd build
+
 Run the following commands to complete the build process
-'''
-cmake ..
-make
-'''
+
+        cmake ..
+        make
+
 
 ## Running
 Once you have successfully build your project you can run the executables with the following commands from inside your build directory
 
 DFS
-'''
-./dfs
-'''
+         
+         ./dfs
+        
 BFS
-'''
-./bfs
-'''
+
+        ./bfs
 
 Dijkstra
-'''
-./dijkstra
-'''
+
+        ./dijkstra
+
 
 A*
-'''
-./a_star
-'''
+
+        ./a_star
 
 Weighted-A*
-'''
-./wa_star
-'''
+
+        ./wa_star
+
 
 
 ## References & Useful resources
 
-Markup : * Maze Generator for the code has been used from [here](https://scipython.com/blog/making-a-maze/)
+        * Maze Generator for the code has been used from [here](https://scipython.com/blog/making-a-maze/)
 
-         * Installing OpenCV (4) for Ubuntu 18.04](https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/)
+        * Installing OpenCV (4) for Ubuntu 18.04](https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/)
 
 
