@@ -5,7 +5,7 @@ Algorithms implemented: Breadth-First Search, Depth-First Search, Dijkstra, A*, 
 
 Breadth-First Search 
 <p float="center">
-<img src="Videos/gif/Maze_solver_with_dfs.gif" width="49%"/>
+<img src="Videos/gif/Maze_solver_with_bfs(1).gif" width="49%"/>
 </p>
 
 Depth-First Search 
@@ -17,7 +17,7 @@ Depth-First Search
 Dijkstra's Algorithm 
 
 <p float="center">
-<img src="Videos/gif/Maze_solver_with_dijkstra" width="49%"/>
+<img src="Videos/gif/Maze_solver_with_dijkstra.gif" width="49%"/>
 </p>
 
 A* 
