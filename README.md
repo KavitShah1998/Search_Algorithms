@@ -5,31 +5,31 @@ Algorithms implemented: Breadth-First Search, Depth-First Search, Dijkstra, A*, 
 
 Breadth-First Search 
 <p float="center">
-<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_dfs.gif" width="49%"/>
+<img src="Videos/gif/Maze_solver_with_dfs.gif" width="49%"/>
 </p>
 
 Depth-First Search 
 
 <p float="center">
-<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_dfs.gif" width="49%"/>
+<img src="Videos/gif/Maze_solver_with_dfs.gif" width="49%"/>
 </p>
 
 Dijkstra's Algorithm 
 
 <p float="center">
-<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_dijkstra" width="49%"/>
+<img src="Videos/gif/Maze_solver_with_dijkstra" width="49%"/>
 </p>
 
 A* 
 
 <p float="center">
-<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_a_star.gif" width="49%"/>
+<img src="Videos/gif/Maze_solver_with_a_star.gif" width="49%"/>
 </p>
 
 Weighted-A*
 
 <p float="center">
-<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_wa_star.gif" width="49%"/>
+<img src="Videos/gif/Maze_solver_with_wa_star.gif" width="49%"/>
 </p>
 
 
