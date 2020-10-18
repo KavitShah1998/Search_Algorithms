@@ -4,7 +4,7 @@ This repository contains implementation of graph-search algorithms in maze-like 
 Algorithms implemented: Breadth-First Search, Depth-First Search, Dijkstra, A*, Weighted-A*
 
 Breadth-First Search 
-
+![](https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_bfs(1).gif)
 <p float="center">
 <img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_bfs(1).gif" width="49%"/>
 </p>
@@ -87,6 +87,6 @@ Weighted-A*
 
 * Maze Generator for the code has been used from [here](https://scipython.com/blog/making-a-maze/)
 
-* [Installing OpenCV (4) for Ubuntu 18.04](https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/)
+* Installing [OpenCV4] for Ubuntu 18.04 (https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/)
 
 
