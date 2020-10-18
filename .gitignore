@@ -1,0 +1,11 @@
+# Ignore the following files and folders
+
+
+/.gitignore
+
+/build
+
+/Videos/mkv/*
+
+/Videos/mp4/*
+
