@@ -4,10 +4,7 @@ This repository contains implementation of graph-search algorithms in maze-like 
 Algorithms implemented: Breadth-First Search, Depth-First Search, Dijkstra, A*, Weighted-A*
 
 Breadth-First Search 
-![](https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_bfs(1).gif)
-<p float="center">
-<img src="https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_bfs(1).gif" width="49%"/>
-</p>
+![BFS](https://github.com/KavitShah1998/Search_Algorithms/tree/master/Videos/gif/Maze_solver_with_bfs(1).gif)
 
 Depth-First Search 
 
