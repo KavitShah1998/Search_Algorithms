@@ -87,6 +87,6 @@ Weighted-A*
 
 * Maze Generator for the code has been used from [here](https://scipython.com/blog/making-a-maze/)
 
-* Installing OpenCV (4) for Ubuntu 18.04](https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/)
+* [Installing OpenCV (4) for Ubuntu 18.04](https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/)
 
 
